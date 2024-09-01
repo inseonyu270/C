@@ -17,8 +17,6 @@
 - %f : 10진 실수 서식 문자
 - %c : 한 문자 서식 문자
 - %s : 문자열 서식 문자
-
-
 ```#include <stdio.h>
 
 int main(void)
