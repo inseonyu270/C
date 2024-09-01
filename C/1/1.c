@@ -1,9 +1,8 @@
-// #include <stdio.h>    // #include : 전처리문 ( 포함하다 )
-                         // <stdio.h> : 헤더파일  ( 기본 입출력 함수 호출용 )
+#include <stdio.h> 
 
-// int main(void)              // 함수의 헤더 ( 반환자료형 함수명 값입력부분 )
-// {                           // 함수의 시작
-//   printf("Hello, World!");  // 라이브러리 함수 ( 화면에 출력 ) / Hello, World! 출력
-//                             // ; ( 세미콜론 ) : 해당 라인의 끝을 알린다
-//   return 0;                 // 반환값 0 ( 함수가 종료되었을 때 전달하는 값 )
-// }                           // 함수의 끝
+int main(void)             
+{                           
+  printf("Hello, World!");  
+                           
+  return 0;               
+} 
