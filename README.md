@@ -3,6 +3,6 @@ Study C Language
 
 ## INDEX
 
-|Number|-|-|
+|Number|C|-|
 |-|-|-|
-|1|-|-|
+|1|[HelloWorld!](./C/1)|-|
