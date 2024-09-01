@@ -17,29 +17,20 @@
 - %f : 10진 실수 서식 문자
 - %c : 한 문자 서식 문자
 - %s : 문자열 서식 문자
-```#include <stdio.h>
-
-int main(void)
-{
-    int number1, number2;
-    number1 = 1;
-    number2 = 2;
-    int number3 = 3, number4 = 4;
-    
-    printf("%d %d %d %d", number1, number2, number3, number4);
-    
-    return 0;
-}
-```
+---
+## 예제
 ```
 #include <stdio.h>
 
 int main(void)
 {
-	int number1 = 3;
-	printf("%d\n", number1);	// \n : 엔터(줄 바꿈)
-	int number2 = 5;			
+	int number1 = 1;
+	int number2 = 2;
+	int number3 = 3, number4 = 4;	
+	printf("%d\n", number1);	// \n : 엔터(줄 바꿈)		
 	printf("%d\n", number2);
+	printf("%d\n", number3);
+	printf("%d\n", number4);
 
 	return 0;
 }
