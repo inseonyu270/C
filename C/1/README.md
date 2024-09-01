@@ -1,4 +1,4 @@
-## include <stdio.h>
+## #include <stdio.h>
 ```
 #include : 전처리문 ( 포함하다 )
 <stdio.h> : 헤더파일  ( 기본 입출력 함수 호출용 )
